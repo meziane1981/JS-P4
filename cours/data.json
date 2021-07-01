@@ -1,0 +1,41 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Atom One Dark",
+    "todo-tree.tree.showScanModeButton": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "kite.showWelcomeNotificationOnStartup": false,
+    "cSpell.enableFiletypes": [
+        "!css",
+        "blade"
+    ],
+    "mssql.connections": [{
+        "server": "{{put-server-name-here}}",
+        "database": "{{put-database-name-here}}",
+        "user": "{{put-username-here}}",
+        "password": "{{put-password-here}}"
+    }],
+    "editor.renderControlCharacters": true,
+    "php.validate.executablePath": "C:\\laragon\\bin\\php\\php-7.2.19-Win32-VC15-x64\\php.exe",
+    "git.autofetch": true,
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "push:command",
+        "pull:command"
+    ],
+    "grunt.autoDetect": "on",
+    "gulp.autoDetect": "on",
+    "editor.formatOnSave": true,
+    "jshint.lintHTML": true,
+    "jshint.reportWarningsAsErrors": true,
+    "liveServer.settings.showOnStatusbar": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.fullReload": true,
+    "cSpell.language": "en",
+    "workbench.iconTheme": "material-icon-theme"
+}
